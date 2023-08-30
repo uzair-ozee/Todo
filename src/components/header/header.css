@@ -41,7 +41,6 @@
 .todo__list ul{
     display: flex;
     flex-direction: column;
-    /* display: flex; */
     gap: 0.3rem;
 }
 
@@ -74,9 +73,6 @@
 
 .edit button{
     background-color: rgb(66, 209, 47);
-    /* display: flex;
-    align-items: center;
-    justify-content: center; */
     width: 2rem;
     border: none;
     height: 2rem;
